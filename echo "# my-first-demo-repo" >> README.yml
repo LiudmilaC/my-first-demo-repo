@@ -1,3 +1,4 @@
+This is to start working with a repository.
 echo "# my-first-demo-repo" >> README.md
 git init
 git add README.md
