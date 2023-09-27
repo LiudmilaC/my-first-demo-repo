@@ -1,0 +1,2 @@
+I just want to add some info, so we can test the ignore file.
+All these files might get deleted later, and that's ok.
