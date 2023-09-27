@@ -1,0 +1,4 @@
+# logs/ this is the folder with all contents
+logs/
+db_password.txt
+*.pem
